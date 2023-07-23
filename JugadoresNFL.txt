@@ -1,0 +1,563 @@
+1
+Josh Allen
+Mariscal
+Titular
+68
+
+1
+Jake Fromm
+Mariscal
+Reserva
+65
+
+1
+Stefon Diggs
+Receptor
+Titular
+78
+
+2
+Tua Tagovailoa
+Mariscal
+Titular
+74
+
+2
+Jake Rudock
+Mariscal
+Reserva
+63
+
+2
+DeVante Parker
+Receptor
+Titular
+69
+
+3
+Cam Newton
+Mariscal
+Titular
+77
+
+3
+Jarrett Stidham
+Mariscal
+Reserva
+69
+
+3
+N'Keal Harry
+Receptor
+Titular
+76
+
+4
+James Morgan
+Mariscal
+Titular
+64
+
+4
+Mike White
+Mariscal
+Reserva
+63
+
+4
+Jamison Crowder
+Receptor
+Titular
+78
+
+5
+Drew Lock
+Mariscal
+Titular
+78
+
+5
+Brett Rypien
+Mariscal
+Reserva
+65
+
+5
+Jerry Jeudy
+Receptor
+Titular
+76
+
+6
+Patrick Mahomes
+Mariscal
+Titular
+88
+
+6
+Chad Henne
+Mariscal
+Reserva
+68
+
+6
+Tyreek Hill
+Receptor
+Titular
+75
+
+7
+Derek Carr
+Mariscal
+Titular
+78
+
+7
+Marcus Mariota
+Mariscal
+Reserva
+73
+
+7
+Henry Ruggs
+Receptor
+Titular
+75
+
+8
+Justin Herbert
+Mariscal
+Titular
+71
+
+8
+Easton Stick
+Mariscal
+Reserva
+69
+
+8
+Keenan Allen
+Receptor
+Titular
+71
+
+9
+Lamar Jackson
+Mariscal
+Titular
+74
+
+9
+Trace McSorley
+Mariscal
+Reserva
+66
+
+9
+Marquise Brown
+Receptor
+Titular
+77
+
+10
+Joe Burrow
+Mariscal
+Titular
+77
+
+10
+Brandon Allen
+Mariscal
+Reserva
+65
+
+10
+Tyler Boyd
+Receptor
+Titular
+68
+
+11
+Baker Mayfield
+Mariscal
+Titular
+78
+
+11
+Case Keenum
+Mariscal
+Reserva
+72
+
+11
+Odell Beckham
+Receptor
+Titular
+72
+
+12
+Roethlisberger
+Mariscal
+Titular
+81
+
+12
+Mason Rudolph
+Mariscal
+Reserva
+69
+
+12
+JuJu Smith
+Receptor
+Titular
+80
+
+13
+Deshaun Watson
+Mariscal
+Titular
+70
+
+13
+Ryan Finley
+Mariscal
+Reserva
+66
+
+13
+Brandin Cooks
+Receptor
+Titular
+69
+
+14
+Carson Wentz
+Mariscal
+Titular
+79
+
+14
+Jacob Eason
+Mariscal
+Reserva
+66
+
+14
+T.Y. Hilton
+Receptor
+Titular
+70
+
+15
+Gardner Minshew
+Mariscal
+Titular
+75
+
+15
+Jake Luton
+Mariscal
+Reserva
+63
+
+15
+DJ Chark Jr
+Receptor
+Titular
+79
+
+16
+Ryan Tannehill
+Mariscal
+Titular
+68
+
+16
+Logan Woodside
+Mariscal
+Reserva
+62
+
+16
+A.J. Brown
+Receptor
+Titular
+79
+
+17
+Ben DiNucci
+Mariscal
+Titular
+63
+
+17
+Dak Prescott
+Mariscal
+Reserva
+70
+
+17
+Amari Cooper
+Receptor
+Titular
+72
+
+18
+Daniel Jones
+Mariscal
+Titular
+75
+
+18
+Cooper Rush
+Mariscal
+Reserva
+64
+
+18
+Sterling
+Receptor
+Titular
+78
+
+19
+Jalen Hurts
+Mariscal
+Titular
+68
+
+19
+Corey Clement
+Mariscal
+Reserva
+76
+
+19
+Jalen Reagor
+Receptor
+Titular
+73
+
+20
+Kyle Allen
+Mariscal
+Titular
+70
+
+20
+Fitzpatrick
+Mariscal
+Reserva
+76
+
+20
+Terry McLaurin
+Receptor
+Titular
+79
+
+21
+Brett Hundley
+Mariscal
+Titular
+70
+
+21
+Kyler Murray
+Mariscal
+Reserva
+78
+
+21
+DeAndre Hopkins
+Receptor
+Titular
+75
+
+22
+Matthew
+Mariscal
+Titular
+68
+
+22
+Devlin Hodges
+Mariscal
+Reserva
+68
+
+22
+Robert Woods
+Receptor
+Titular
+70
+
+23
+Jimmy Garoppolo
+Mariscal
+Titular
+68
+
+23
+Nate Sudfeld
+Mariscal
+Reserva
+67
+
+23
+Deebo Samuel
+Receptor
+Titular
+78
+
+24
+Russell Wilson
+Mariscal
+Titular
+75
+
+24
+Danny Etling
+Mariscal
+Reserva
+63
+
+24
+DK Metcalf
+Receptor
+Titular
+76
+
+25
+Andy Dalton
+Mariscal
+Titular
+75
+
+25
+Nick Foles
+Mariscal
+Reserva
+74
+
+25
+Allen Robinson 
+Receptor
+Titular
+71
+
+26
+Jared Goff
+Mariscal
+Titular
+77
+
+26
+Tim Boyle
+Mariscal
+Reserva
+68
+
+26
+Geronimo
+Receptor
+Titular
+71
+
+27
+Aaron Rodgers
+Mariscal
+Titular
+71
+
+27
+Jordan Love
+Mariscal
+Reserva
+69
+
+27
+Davante Adams
+Receptor
+Titular
+74
+
+28
+Kirk Cousins
+Mariscal
+Titular
+68
+
+28
+Nate Stanley
+Mariscal
+Reserva
+62
+
+28
+Adam Thielen
+Receptor
+Titular
+71
+
+29
+Matt Ryan
+Mariscal
+Titular
+69
+
+29
+Julio Jones
+Receptor
+Titular
+74
+
+30
+Teddy B.
+Mariscal
+Titular
+68
+
+30
+Will Grier
+Mariscal
+Reserva
+69
+
+30
+Robby Anderson
+Receptor
+Titular
+68
+
+31
+Jameis Winston
+Mariscal
+Titular
+77
+
+31
+Taysom Hill
+Mariscal
+Reserva
+71
+
+31
+Michael Thomas
+Receptor
+Titular
+76
+
+32
+Tom Brady
+Mariscal
+Titular
+84
+
+32
+Mike Evans
+Receptor
+Titular
+85
